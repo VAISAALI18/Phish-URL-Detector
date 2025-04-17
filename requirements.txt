@@ -4,7 +4,6 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-pickle5
 requests
 beautifulsoup4
 googlesearch-python
