@@ -8,4 +8,5 @@ requests
 beautifulsoup4
 googlesearch-python
 whois
+gunicorn
 python-dateutil
